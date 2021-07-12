@@ -29,7 +29,7 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""<b>Hi {message.from_user.mention} 😉️!</b>
 
-I'm The Friends Srilanka Music Bot! A Powerful Bot to Play Music in Your Group Voice Chat 😇!
+I'm Friends Srilanka 🇱🇰 Music Bot! A Powerful Bot to Play Music in Your Group Voice Chat 😇!
 
 Also I have more features! Please hit on **/help** to see them 😘!
 
