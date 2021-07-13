@@ -145,7 +145,7 @@ Credits To,
 <b>TeamDaisyX</b>
 <b>N A C</b>
 
-Made with ❤️ by **@{UPDATES_CHANNEL}**""",
+Made with ❤️ by **@friendssrilankachannel**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
