@@ -31,7 +31,7 @@ async def start(_, message: Message):
 
 I'm Friends Srilanka 🇱🇰 Music Bot! A Powerful Bot to Play Music in Your Group Voice Chat 😇!
 
-My Master is @Cyber_Dark_0,He is a Telegram Bot Developer !.If You have any problem in the group, Please contact him.!!
+My Master is @Cyber_Dark_0,Telegram Bot Developer !.If You have any problem in the group, Please contact him.!!
 
 Also I have more features! Please hit on **/help** to see them 😘!
 
